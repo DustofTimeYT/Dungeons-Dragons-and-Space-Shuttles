@@ -1,0 +1,18 @@
+{
+  "id": "qween_1538,128,7722",
+  "name": "qween",
+  "icon": "waypoint-normal.png",
+  "x": 1538,
+  "y": 128,
+  "z": 7722,
+  "r": 229,
+  "g": 116,
+  "b": 138,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    7
+  ],
+  "persistent": true
+}

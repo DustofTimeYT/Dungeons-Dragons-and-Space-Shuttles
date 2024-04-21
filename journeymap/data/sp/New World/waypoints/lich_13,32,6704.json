@@ -1,0 +1,18 @@
+{
+  "id": "lich_13,32,6704",
+  "name": "lich",
+  "icon": "waypoint-normal.png",
+  "x": 13,
+  "y": 32,
+  "z": 6704,
+  "r": 254,
+  "g": 110,
+  "b": 235,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    7
+  ],
+  "persistent": true
+}

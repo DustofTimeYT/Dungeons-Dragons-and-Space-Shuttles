@@ -1,0 +1,18 @@
+{
+  "id": "Death 15:56:12 04-06-2024_1544,67,7738",
+  "name": "Death 15:56:12 04-06-2024",
+  "icon": "waypoint-death.png",
+  "x": 1544,
+  "y": 67,
+  "z": 7738,
+  "r": 176,
+  "g": 18,
+  "b": 201,
+  "enable": true,
+  "type": "Death",
+  "origin": "journeymap",
+  "dimensions": [
+    7
+  ],
+  "persistent": true
+}

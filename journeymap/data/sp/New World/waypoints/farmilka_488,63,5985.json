@@ -1,0 +1,18 @@
+{
+  "id": "farmilka_488,63,5985",
+  "name": "farmilka",
+  "icon": "waypoint-normal.png",
+  "x": 488,
+  "y": 63,
+  "z": 5985,
+  "r": 4,
+  "g": 201,
+  "b": 186,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
