@@ -1399,15 +1399,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2024-04-20 16:00:19 +0300"
-    },
-    "done": true
-  },
   "twilightforest:alt/treasures/mazebreaker_pickaxe": {
     "criteria": {
       "mazebreaker_pickaxe": "2024-04-20 15:48:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-04-20 16:00:19 +0300"
     },
     "done": true
   },
@@ -1825,15 +1825,15 @@
     },
     "done": true
   },
-  "twilightforest:alt/entities/giants": {
-    "criteria": {
-      "0": "2024-04-20 17:23:51 +0300"
-    },
-    "done": true
-  },
   "twilightforest:alt/treasures/carminite": {
     "criteria": {
       "carminite_recipe": "2024-04-20 17:09:31 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/giants": {
+    "criteria": {
+      "0": "2024-04-20 17:23:51 +0300"
     },
     "done": true
   },
@@ -2522,18 +2522,18 @@
     },
     "done": true
   },
-  "twilightforest:alt/entities/ghasts": {
-    "criteria": {
-      "0": "2024-04-20 16:30:12 +0300"
-    },
-    "done": true
-  },
   "twilightforest:arctic_armor_dyed": {
     "criteria": {
       "chest": "2024-04-20 15:53:11 +0300",
       "helmet": "2024-04-20 15:53:11 +0300",
       "legs": "2024-04-20 15:53:11 +0300",
       "boots": "2024-04-20 15:53:11 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/ghasts": {
+    "criteria": {
+      "0": "2024-04-20 16:30:12 +0300"
     },
     "done": true
   },

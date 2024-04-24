@@ -101,8 +101,8 @@
 -406 63 5151 -383 99 5198 JG_UndeadPirateShip_CB_1v12.tml
 -388 68 8263 -375 87 8274 JG_Windmill_1v12-r.tml
 -366 67 1063 -357 82 1072 MoaiHead.tml
--340 85 6475 -338 89 6478 SkeletonHeadStatue.tml
 -340 63 5435 -327 82 5448 753_Balloon_Quark.tml
+-340 85 6475 -338 89 6478 SkeletonHeadStatue.tml
 -333 68 5801 -324 75 5810 JG_DesertFirePitHut_1v12-r.tml
 -323 62 6226 -316 67 6234 753_Geode_Rock_Med.tml
 -319 62 8503 -316 66 8506 StoneGrill.tml
@@ -160,8 +160,8 @@
 266 61 8417 269 63 8420 JG_MossyBoulder_1v12.tml
 295 62 6225 297 66 6228 SkeletonHeadStatue.tml
 299 63 1534 300 63 1535 JG_CreeperBoat_CB_1v12.tml
-306 66 6008 316 71 6018 RuinedSmallFountainDiagonal.tml
 306 39 47 318 46 59 JG_SunkenTreasure2_1v12.tml
+306 66 6008 316 71 6018 RuinedSmallFountainDiagonal.tml
 308 63 1737 319 74 1746 ArrowTrapTomb.tml
 318 68 6014 325 84 6021 JG_StoneGazebo_1v12.tml
 350 44 1126 358 49 1133 753_Geode_Rock_Med.tml
@@ -194,13 +194,13 @@
 567 84 5999 570 88 6002 StoneGrill.tml
 568 67 7318 569 69 7319 753_Seed_DeepQuark_CB.tml
 590 66 7537 593 70 7540 StoneGrill.tml
-615 69 7052 625 74 7062 RuinedSmallFountainDiagonal.tml
 615 83 6237 620 88 6244 ZombieHut.tml
-620 64 13518 624 70 13521 StonePillar.tml
+615 69 7052 625 74 7062 RuinedSmallFountainDiagonal.tml
 620 66 6751 621 68 6752 753_Seed_DeepQuark_CB.tml
+620 64 13518 624 70 13521 StonePillar.tml
 623 63 6536 632 78 6545 MoaiHead.tml
-638 63 317 641 63 320 JG_SkyIslet_Seeder_CB_1v12v1.tml
 638 64 2860 641 78 2863 JG_Well_Savanna_1v12.tml
+638 63 317 641 63 320 JG_SkyIslet_Seeder_CB_1v12v1.tml
 649 65 5807 657 73 5814 JG_FoundationWoodHouse_1v12.tml
 665 70 11565 677 75 11577 AncientFountain.tml
 666 47 1376 667 51 1377 JG_SunkenTowerSeed_CB_1v11.tml
@@ -224,8 +224,8 @@
 784 94 4127 789 100 4132 CaveSpiderBurrow.tml
 810 67 6098 822 108 6109 K10_Tower_03_1v12.tml
 814 64 6712 821 73 6719 Outcrop.tml
-818 73 3711 827 79 3720 753_Farm_Beansquash.tml
 818 64 6510 825 86 6517 JG_GazeboDoom_1v12.tml
+818 73 3711 827 79 3720 753_Farm_Beansquash.tml
 822 62 6998 825 66 7000 SkeletonHeadStatue.tml
 834 66 7183 839 82 7188 JG_AnkhMonument_1v12-r.tml
 843 64 6308 852 92 6317 K10_SmallTower01_1v12.tml
@@ -243,8 +243,8 @@
 928 69 5244 935 75 5249 JG_NomadPavilion_CB_1v12-p.tml
 944 63 4399 945 65 4400 753_Seed_DeepQuark_CB.tml
 947 67 896 954 76 903 Outcrop.tml
-952 91 2101 968 107 2117 JG_Cave_LavaHollow_1v12.tml
 952 66 2907 955 80 2910 JG_Well_Savanna_Treasure_1v12.tml
+952 91 2101 968 107 2117 JG_Cave_LavaHollow_1v12.tml
 978 68 3999 979 70 4000 753_Seed_DeepQuark_CB.tml
 982 62 2304 983 64 2305 753_Seed_DeepQuark_CB.tml
 987 69 4186 999 74 4198 AncientFountain.tml
@@ -262,8 +262,8 @@
 1047 63 7190 1063 79 7206 JG_Cave_WaterHollow_1v12.tml
 1078 73 6277 1079 77 6278 JG_Tree_GnarledOakSeed_CB_1v12.tml
 1090 84 11687 1100 89 11697 RuinedSmallFountainDiagonal.tml
-1102 89 11908 1107 95 11913 CaveSpiderBurrow.tml
 1102 74 3285 1123 127 3306 JG_WizardTower4_CB_1v12.tml
+1102 89 11908 1107 95 11913 CaveSpiderBurrow.tml
 1115 83 5893 1124 91 5902 JG_ObsidianGeode_1v12.tml
 1117 67 5091 1122 73 5096 CaveSpiderBurrow.tml
 1125 67 5693 1128 81 5696 JG_Well_Savanna_Treasure_1v12.tml
@@ -298,8 +298,8 @@
 1405 47 4223 1413 57 4230 753_Geode_Rock_Large.tml
 1415 73 3799 1428 88 3812 JG_Desert_Oasis_Cursed_1v12.tml
 1435 62 4011 1438 70 4014 JG_XMarksTheSpot_1v12.tml
-1451 69 2033 1462 99 2044 K10_Tower_02_1v12.tml
 1451 68 -2295 1452 70 -2294 753_Seed_DeepQuark_CB.tml
+1451 69 2033 1462 99 2044 K10_Tower_02_1v12.tml
 1454 62 2249 1455 66 2256 JG_Anchor_Stone_1v12.tml
 1468 63 7199 1479 72 7202 JG_Dock_Beach_1v12.tml
 1474 59 6984 1483 88 6993 JG_AndesiteLookout_1v12.tml

@@ -1,6 +1,6 @@
-[13:37:53] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[13:37:53] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[13:37:54] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1, built with Forge 14.23.5.2768
+[17:40:56] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[17:40:56] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[17:40:56] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1, built with Forge 14.23.5.2768
 Forge: 14.23.5.2847
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -17,16 +17,16 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.7
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.7.1, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.7.1, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.7.1, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=6, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=127, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.7.1, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=Stronghold, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=1976}
-[13:37:54] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[13:37:54] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[13:37:54] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
-[13:37:54] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
-[13:37:54] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[13:38:32] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\User\Twitch\Minecraft\Instances\Dungeons%20Dragons%20and%20Space%20Shuttles\mods\journeymap-1.12.2-5.7.1.jar\assets\journeymap\icon\entity
-[13:38:32] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[13:38:32] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\User\Twitch\Minecraft\Instances\Dungeons%20Dragons%20and%20Space%20Shuttles\mods\journeymap-1.12.2-5.7.1.jar\assets\journeymap\theme\flat
-[13:38:32] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
-[13:38:32] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[17:40:56] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[17:40:56] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[17:40:56] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
+[17:40:56] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
+[17:40:56] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[17:41:29] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\User\Twitch\Minecraft\Instances\Dungeons%20Dragons%20and%20Space%20Shuttles\mods\journeymap-1.12.2-5.7.1.jar\assets\journeymap\icon\entity
+[17:41:29] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[17:41:29] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\User\Twitch\Minecraft\Instances\Dungeons%20Dragons%20and%20Space%20Shuttles\mods\journeymap-1.12.2-5.7.1.jar\assets\journeymap\theme\flat
+[17:41:29] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[17:41:29] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
@@ -80,48 +80,14 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 26 more
-[13:41:25] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[13:41:26] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[13:41:26] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7. Memory: 8469MB total, 3437MB free 
-[13:41:29] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
-[13:41:50] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[13:41:50] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7
-[13:41:51] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[13:41:51] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0. Memory: 9753MB total, 5684MB free 
-[14:20:10] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[14:20:10] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[15:01:57] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0
-[15:02:04] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[15:02:04] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7. Memory: 11299MB total, 6576MB free 
-[15:02:30] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[15:02:30] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7
-[15:02:36] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[15:02:36] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0. Memory: 11308MB total, 6071MB free 
-[15:13:48] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[15:26:35] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[15:26:37] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[15:36:55] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[16:09:40] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0
-[16:09:46] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[16:09:46] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7. Memory: 13347MB total, 8405MB free 
-[16:19:51] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 728.5 32 11772.5 7
-[16:24:27] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[16:24:27] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7
-[16:24:28] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[16:24:28] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0. Memory: 13085MB total, 7338MB free 
-[16:25:51] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 254.5 32 6731.5 7
-[16:25:51] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0
-[16:25:57] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[16:25:57] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7. Memory: 13037MB total, 7949MB free 
-[16:42:11] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[16:42:11] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[17:50:01] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[17:50:01] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM7
-[17:50:08] [Client thread/INFO] [WaypointStore] Loaded 30 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\waypoints
-[17:50:08] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0. Memory: 13812MB total, 7948MB free 
-[18:21:54] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[18:21:54] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[18:45:23] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[18:53:01] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[20:42:58] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 251.5 62 6708.5 0
-[22:03:19] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\New World\DIM0
+[18:52:00] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\waypoints
+[18:52:01] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\DIM0. Memory: 10152MB total, 4818MB free 
+[18:52:03] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[18:52:05] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[19:10:57] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\DIM0
+[19:10:58] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\waypoints
+[19:10:58] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\DIM-1. Memory: 12447MB total, 7467MB free 
+[19:11:16] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\DIM-1
+[19:11:17] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\waypoints
+[19:11:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\DIM0. Memory: 12376MB total, 7095MB free 
+[19:17:44] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\User\Twitch\Minecraft\Instances\Dungeons Dragons and Space Shuttles\journeymap\data\sp\My world\DIM0
