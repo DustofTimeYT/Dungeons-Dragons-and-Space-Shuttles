@@ -11,8 +11,10 @@
 #
 -382 128 1154 -375 194 1161 JG_StairwayToHeck_1v12.tml
 -328 128 1346 -321 148 1353 JG_SpiritCage_peaceful_CB_1v12.tml
+-296 128 756 -289 148 763 JG_SpiritCage_peaceful_CB_1v12.tml
 -248 32 954 -237 43 963 ArrowTrapTomb.tml
 -180 61 1146 -179 61 1147 JG_NetherDungeonSeeder_CB_1v12.tml
+-174 128 533 -161 137 546 VolcanicVent.tml
 -107 126 734 -98 141 743 MoaiHead.tml
 -78 128 1331 -65 137 1344 VolcanicVent.tml
 -56 126 924 -49 135 931 Outcrop.tml
@@ -21,8 +23,9 @@
 56 128 6821 71 179 6836 753_BoneSpike.tml
 60 127 6529 62 131 6532 SkeletonHeadStatue.tml
 87 109 719 94 185 726 JG_NetherCeilingTower_1v12.tml
-134 126 924 144 135 936 StoneHouseMruined.tml
+114 126 505 126 139 521 Barn-intact.tml
 134 126 1355 146 131 1367 AncientFountain.tml
+134 126 924 144 135 936 StoneHouseMruined.tml
 235 127 2034 238 131 2036 SkeletonHeadStatue.tml
 245 128 6532 252 194 6539 JG_StairwayToHeck_1v12.tml
 249 53 1589 256 73 1596 JG_SpiritCage_CB_1v12.tml

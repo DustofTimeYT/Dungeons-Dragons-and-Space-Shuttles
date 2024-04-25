@@ -1548,6 +1548,12 @@
     },
     "done": true
   },
+  "refinedstorage:binding": {
+    "criteria": {
+      "cutting_tool_in_inventory": "2024-04-24 18:41:31 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/fire_jet": {
     "criteria": {
       "fire_swamp": "2024-04-17 20:48:37 +0300"
@@ -2112,6 +2118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-04-24 18:10:51 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/tiny_bird": {
     "criteria": {
       "slay": "2024-04-06 14:56:33 +0300"
@@ -2551,6 +2563,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-03-26 21:49:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2024-04-24 14:46:55 +0300"
     },
     "done": true
   },

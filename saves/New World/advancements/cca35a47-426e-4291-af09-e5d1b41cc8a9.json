@@ -1104,6 +1104,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_lightning_resistance": {
+    "criteria": {
+      "coded_trigger": "2024-04-24 16:58:48 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-03-26 21:10:51 +0300"
@@ -2423,6 +2429,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-04-02 20:37:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-04-24 18:02:26 +0300"
     },
     "done": true
   },
