@@ -150,6 +150,12 @@
     },
     "done": true
   },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "code_triggered": "2024-04-26 20:47:04 +0300"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-03-26 20:11:28 +0300"
@@ -165,6 +171,12 @@
   "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-03-26 20:38:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-04-25 20:25:24 +0300"
     },
     "done": true
   },
@@ -597,9 +609,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-04-26 18:25:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2024-03-28 20:50:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-04-26 18:25:11 +0300"
     },
     "done": true
   },
@@ -673,6 +697,12 @@
   "tombstone:tutorial/create_strange_scroll": {
     "criteria": {
       "has_strange_scroll": "2024-03-27 17:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-04-26 18:25:11 +0300"
     },
     "done": true
   },
@@ -769,6 +799,12 @@
   "twilightforest:alt/entities/minoshroom": {
     "criteria": {
       "hurt_by_indirect": "2024-04-20 16:19:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-04-26 18:25:07 +0300"
     },
     "done": true
   },
@@ -936,6 +972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2024-04-26 18:25:11 +0300"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2024-03-26 22:06:20 +0300"
@@ -945,6 +987,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-03-27 21:06:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2024-04-26 18:25:07 +0300"
     },
     "done": true
   },
@@ -1031,6 +1079,12 @@
       "hydra": "2024-04-20 16:23:07 +0300",
       "snow_queen": "2024-04-06 16:18:06 +0300",
       "ur_ghast": "2024-04-20 17:12:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-04-26 18:25:11 +0300"
     },
     "done": true
   },
@@ -1212,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2024-04-26 18:25:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-03-26 20:40:15 +0300"
@@ -1221,6 +1281,12 @@
   "twilightforest:alt/treasures/mazebreaker_pickaxe": {
     "criteria": {
       "mazebreaker_pickaxe": "2024-04-20 15:31:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-04-26 18:25:07 +0300"
     },
     "done": true
   },
@@ -1335,6 +1401,12 @@
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-03-28 19:57:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-04-26 18:25:11 +0300"
     },
     "done": true
   },
@@ -1470,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2024-04-26 18:25:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-03-27 21:06:29 +0300"
@@ -1497,6 +1575,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-03-26 21:10:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-04-26 18:25:07 +0300"
     },
     "done": true
   },
@@ -1575,6 +1659,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-03-26 20:28:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-04-26 18:25:07 +0300"
     },
     "done": true
   },
@@ -1797,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-04-26 18:25:07 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/maps": {
     "criteria": {
       "1": "2024-04-20 15:44:17 +0300"
@@ -1824,6 +1920,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2024-03-27 15:18:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-04-26 18:25:07 +0300"
     },
     "done": true
   },
@@ -1931,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-04-26 18:25:11 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/twilight_clearing": {
     "criteria": {
       "discover": "2024-04-05 22:03:33 +0300"
@@ -1970,6 +2078,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-03-26 20:24:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2024-04-26 18:25:07 +0300"
     },
     "done": true
   },
@@ -2229,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-04-26 18:25:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-04-20 18:03:05 +0300"
@@ -2397,6 +2517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-04-26 18:25:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-03-27 16:00:12 +0300"
@@ -2454,6 +2580,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-03-26 21:33:52 +0300"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2024-04-26 20:37:53 +0300"
     },
     "done": true
   },
@@ -2640,6 +2772,12 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-04-26 20:28:46 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/wild_boar": {
     "criteria": {
       "slay": "2024-04-06 16:59:27 +0300"
@@ -2778,6 +2916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2024-04-26 18:25:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-03-26 20:22:53 +0300"
@@ -2827,6 +2971,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/enchanted_forest": {
+    "criteria": {
+      "discover": "2024-04-26 18:25:28 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-03-26 20:22:53 +0300"
@@ -2854,6 +3004,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-03-26 21:10:39 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/quest_grove": {
+    "criteria": {
+      "discover": "2024-04-26 18:25:28 +0300"
     },
     "done": true
   },
@@ -2982,6 +3138,12 @@
   "twilightforest:alt/entities/ice_cores": {
     "criteria": {
       "0": "2024-04-06 14:51:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2024-04-26 18:25:11 +0300"
     },
     "done": true
   },

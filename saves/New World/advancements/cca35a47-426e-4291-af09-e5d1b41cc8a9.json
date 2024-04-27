@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-04-26 18:25:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2024-04-04 19:03:01 +0300"
@@ -352,6 +358,12 @@
   "tombstone:tutorial/find_ancient_tablet": {
     "criteria": {
       "has_ancient_tablet_of_home": "2024-04-02 19:28:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-04-26 18:25:04 +0300"
     },
     "done": true
   },
@@ -463,6 +475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2024-04-26 20:57:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2024-03-27 16:03:35 +0300"
@@ -509,6 +527,12 @@
     "criteria": {
       "kill_lich": "2024-04-06 13:04:14 +0300",
       "trophy_pedestal": "2024-04-06 16:40:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-26 17:48:21 +0300"
     },
     "done": true
   },
@@ -703,6 +727,12 @@
   "twilightforest:naga_armors": {
     "criteria": {
       "armor": "2024-04-20 16:03:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-04-26 18:25:11 +0300"
     },
     "done": true
   },
@@ -983,6 +1013,12 @@
     },
     "done": true
   },
+  "botania:main/mana_cart_craft": {
+    "criteria": {
+      "poolcart": "2024-04-26 17:48:26 +0300"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/traps/powered_fence": {
     "criteria": {
       "has_item": "2024-03-31 18:46:22 +0300"
@@ -1047,6 +1083,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-03-26 20:36:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-04-26 18:25:04 +0300"
     },
     "done": true
   },
@@ -1119,6 +1161,12 @@
   "twilightforest:alt/entities/giant_miner": {
     "criteria": {
       "hurt": "2024-04-20 17:23:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-04-26 18:25:04 +0300"
     },
     "done": true
   },
@@ -1295,6 +1343,12 @@
     },
     "done": true
   },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2024-04-26 21:26:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-03-29 21:50:56 +0300"
@@ -1321,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-04-26 18:24:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2024-03-27 16:46:44 +0300"
@@ -1329,6 +1389,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2024-04-26 20:30:33 +0300",
       "forest": "2024-03-26 21:20:29 +0300",
       "mesa_rock": "2024-03-26 20:33:08 +0300",
       "birch_forest": "2024-03-29 21:53:41 +0300",
@@ -1347,6 +1408,7 @@
       "redwood_taiga": "2024-03-27 15:39:32 +0300",
       "redwood_taiga_hills": "2024-03-27 15:39:27 +0300",
       "taiga_hills": "2024-03-27 15:39:17 +0300",
+      "birch_forest_hills": "2024-04-26 16:52:16 +0300",
       "ocean": "2024-03-26 20:57:43 +0300",
       "extreme_hills": "2024-03-26 21:26:16 +0300",
       "roofed_forest": "2024-03-31 20:40:03 +0300",
@@ -1513,6 +1575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-04-26 18:25:11 +0300"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/books_from_shelves": {
     "criteria": {
       "has_book": "2024-03-27 21:32:44 +0300"
@@ -1558,6 +1626,12 @@
   "tombstone:tutorial/use_true_sight": {
     "criteria": {
       "coded_trigger": "2024-04-09 14:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-26 17:48:21 +0300"
     },
     "done": true
   },
@@ -1693,6 +1767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-04-26 18:24:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-03-27 21:32:44 +0300"
@@ -1732,6 +1812,12 @@
   "twilightforest:alt/major_landmarks/yeti_lairs": {
     "criteria": {
       "discover": "2024-04-06 13:20:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-26 17:48:21 +0300"
     },
     "done": true
   },
@@ -1798,6 +1884,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-03-26 20:29:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-26 17:48:21 +0300"
     },
     "done": true
   },
@@ -2390,6 +2482,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "code_triggered": "2024-04-26 17:43:11 +0300"
+    },
+    "done": true
+  },
   "twilightforest:maze_map": {
     "criteria": {
       "map": "2024-04-20 15:48:57 +0300"
@@ -2513,6 +2611,12 @@
   "twilightforest:alt/treasures/ironwood_armor_set": {
     "criteria": {
       "ingredien2": "2024-04-06 13:29:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-04-26 18:24:56 +0300"
     },
     "done": true
   },
@@ -3095,6 +3199,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2024-04-26 19:15:19 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/armors": {
     "criteria": {
       "1": "2024-04-05 21:49:01 +0300"
@@ -3245,6 +3355,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/enchanted_forest": {
+    "criteria": {
+      "discover": "2024-04-26 18:24:25 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-03-26 20:29:27 +0300"
@@ -3278,6 +3394,12 @@
   "bonsaitrees:grow": {
     "criteria": {
       "finished_growing_a_bonsai_tree": "2024-03-29 17:32:22 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/quest_grove": {
+    "criteria": {
+      "discover": "2024-04-26 18:24:49 +0300"
     },
     "done": true
   },
